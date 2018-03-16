@@ -1,5 +1,5 @@
 # Chat-app
-Chat application project in 2BA
+Chat application project in 2BA by (Benjamin Elvetici 15011) and Yannis Argyrakis (16133)
 
 	L'application doit être lancé via le terminal de commande avec la commande 'py Chat.py'
 	En se connectant à l'application de Chat, le pseudo va être demandé et grâce à la commande /connect on va se connecter au server en fournissant le pseudo , notre ip et le port choisit. En entrant la commande /chat , le thread est lancé et on peut commencer à discuter en recevant les message des autres.
